@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Pam",
+        "lastname": "In",
+        "email": "pam@local.com",
+        "image": "https://static.vecteezy.com/system/resources/previews/003/758/707/non_2x/zodiac-sign-aries-isolated-icon-zodiac-symbol-with-starry-gradient-design-astrological-element-vector.jpg"
+    },
+    {
+        "id": 2,
+        "name": "In",
+        "lastname": "Pam",
+        "email": "in@local.com",
+        "image": "https://static.vecteezy.com/system/resources/previews/003/758/705/non_2x/zodiac-sign-taurus-isolated-icon-zodiac-symbol-with-starry-gradient-design-astrological-element-vector.jpg"
+    }
+]
